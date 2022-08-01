@@ -1,5 +1,4 @@
 # SelfSignedCertificate
-Script that creates self signed certiifcate
 
 The scripts creates -
 * CA certificate
